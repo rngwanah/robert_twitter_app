@@ -4,7 +4,7 @@
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : +1 817 903 0841</h2> 
+  <h2> Call Us : +1 817 903 0841 / 972 225 2541</h2> 
   
 
 </body>
